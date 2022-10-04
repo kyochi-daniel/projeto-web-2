@@ -6,7 +6,7 @@
 
 Projeto construído no programa Explorer da Rocketseat 2022.
 
-[🔗 Clique aqui para acessar](https://kyochi7.github.io/Explorer/)
+[🔗 Clique aqui para acessar](https://kyochi7.github.io/projeto-web-2/)
 
 ## 🧰 Tecnologias
 
