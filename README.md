@@ -1,4 +1,4 @@
-# Projeto 02
+# Projeto 02 (unresponsive)
 
 ![preview](./.github/preview.png)
 
